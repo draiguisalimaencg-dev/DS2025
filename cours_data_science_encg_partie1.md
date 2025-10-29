@@ -157,6 +157,13 @@ Les statistiques descriptives résument et décrivent les principales caractéri
 - **Médiane** : Valeur centrale qui divise les données en deux parties égales
 - **Mode** : Valeur la plus fréquente
 
+Moyenne: 1207379525661.76
+Médiane: 16725908148.55
+Mode: 340000000.00
+Écart-type: 5537517274228.25
+Variance: 30664097562376314470531072.00
+Min: 11502.63
+Max: 105435039507024.09
 **Mesures de dispersion :**
 
 - **Variance** : $s^2 = \frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2$
