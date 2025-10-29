@@ -4,6 +4,8 @@
 #DRAIGUI SALMA
 ---
 
+<img src="![WhatsApp Image 2025-10-29 at 16 14 21](https://github.com/user-attachments/assets/6c98dc7f-f6d8-4821-9e27-714bd8fa2569)
+" style="height:464px;margin-right:432px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
