@@ -196,7 +196,7 @@ sns.heatmap(
 plt.title("Correlation Matrix of Student Exam Scores Data")
 plt.show()
 Voici ce que signifie chaque corrélation importante :
-<img src="téléchargement (1).png" style="height:540px;margin-right:393px"/>
+<img src="téléchargement (2).png" style="height:540px;margin-right:393px"/>
 
 🔥 1. La corrélation la plus forte : hours_studied → exam_score (0.78)
 
@@ -292,7 +292,7 @@ attendance_percent
 previous_scores
 
 exam_score
-<img src="téléchargement (2).png" style="height:540px;margin-right:393px"/>
+<img src="téléchargement (3).png" style="height:540px;margin-right:393px"/>
 et on voit plusieurs choses importantes :
 
 🔵 1. hours_studied → exam_score (corrélation positive forte)
