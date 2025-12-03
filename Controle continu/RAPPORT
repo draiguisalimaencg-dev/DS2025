@@ -1,1 +1,88 @@
+## RAPPORT D'ANALYSE DE LA BASE DE DONNEES : Environnement & Énergie 
+SALMA DRAIGUI CAC 1
+## Prédiction de la qualité de l'air
 
+La prédiction de la qualité de l'air repose sur des modèles numériques qui simulent la dispersion des polluants comme les particules fines (PM), l'ozone et le dioxyde d'azote, en intégrant des données météorologiques (vent, pluviométrie), les émissions industrielles et le trafic routier. En France, le système PREV'AIR, géré par un consortium incluant l'INERIS, fournit des prévisions quotidiennes à 72 heures via des simulations à haute résolution, corrigées par des méthodes statistiques et l'intelligence artificielle pour réduire les biais observés par rapport aux mesures in-situ. L'IA, via des réseaux neuronaux récurrents et du deep learning, analyse les tendances des capteurs pour anticiper les pics de pollution avec une précision accrue, comme dans les modèles prédisant les PM fines jusqu'à 5 jours à l'avance en combinant données Météo-France et observations réelles.[1][2][3][4][11]
+
+## Production d'énergies renouvelables
+
+La production d'énergies renouvelables englobe le solaire photovoltaïque (conversion du rayonnement en électricité via cellules silicium), l'éolien (générateurs actionnés par le vent) et l'hydraulique, représentant en 2025 plus de 30% de la production électrique mondiale selon l'AIE, avec un boom record en capacité installée (+15% annuel). La Chine domine avec 50% des nouvelles installations solaires, suivie des USA et de l'UE, boostée par des baisses de coûts (panneaux solaires à -80% depuis 2010) et innovations comme les trackers solaires intelligents optimisés par IA. Tendances 2025 incluent l'hybridation solaire-éolien avec stockage batteries, visant une décarbonation accélérée où les renouvelables surpassent le charbon dans plusieurs régions.[12][13][14][15][16][17][18][19]
+
+## Gestion des déchets
+
+La gestion des déchets intègre des technologies comme l'IoT pour monitorer en temps réel le remplissage des conteneurs, l'IA pour un tri automatisé (reconnaissance visuelle à 95% de précision sur plastiques/métaux), et la robotique pour le recyclage. En 2025, des solutions comme NextWaste optimisent les tournées de collecte (-20% CO2 via algorithmes prédictifs), tandis que la pyrolyse et la gazéification transforment les déchets non recyclables en énergie propre. Ces avancées réduisent les enfouissements (objectif UE : zéro déchet enfoui d'ici 2035) et boostent l'économie circulaire, avec un marché mondial des tech déchets en hausse de 12% par an.[20][21][22]
+
+[1](https://www.data.gouv.fr/fr/reuses/prevision-de-qualite-de-lair-concentration-en-particules-fines-en-temps-reel-par-modeles-dintelligence-artificielle/)
+[2](https://www.inbiot.es/fr/wikinbiot/comment-lia-transforme-la-qualite-de-lair-interieur)
+[3](https://fr.linkedin.com/pulse/lintelligence-artificielle-appliqu%C3%A9e-%C3%A0-la-qualit%C3%A9-de-lair-hassine)
+[4](https://www.ineris.fr/fr/risques/dossiers-thematiques/qualite-air/qualite-air-ambiant/modelisationprevision-qualite-air)
+[5](https://www.encyclopedie-environnement.org/air/intelligence-artificielle-prevision-temps/)
+[6](https://www.sciencedirect.com/science/article/pii/S004565352301785X)
+[7](https://pepite.univ-lille.fr/ori-oai-search/notice/view/2024ULILB048)
+[8](https://www.qant.tech/evenement/l-ia-predira-les-effets-de-la-pollution-sur-la-sante/fr)
+[9](https://www.sciencedirect.com/science/article/pii/S1364815224003736)
+[10](https://www.data.gouv.fr/reuses/prevision-de-qualite-de-lair-concentration-en-particules-fines-en-temps-reel-par-modeles-dintelligence-artificielle/)
+[11](https://www.prevair.org)
+[12](https://ekwateur.fr/blog/transition-energetique/electricite-renouvelable-production/)
+[13](https://www.statistiques.developpement-durable.gouv.fr/les-energies-renouvelables)
+[14](https://www.agenceecofin.com/actualites-industries/0810-132178-energies-renouvelables-2025-marque-un-basculement-mondial-selon-l-aie-et-ember)
+[15](https://www.france-renouvelables.fr/etudes-et-publications/observatoire-du-systeme-electrique-renouvelable-2025/)
+[16](https://www.placedesenergies.com/professionnels/actualites/deloitte-le-boom-des-energies-renouvelables-en-2025)
+[17](https://www.irena.org/News/pressreleases/2025/Mar/Record-Breaking-Annual-Growth-in-Renewable-Power-Capacity-FR)
+[18](https://www.evasol.fr/innovations-energies-renouvelables-2025/)
+[19](https://www.sanalifeenergy.com/fr/blog/the-future-of-energy-7-trends-transforming-2025)
+[20](https://www.artois-metaux.com/blog/technologies-gestion-dechets)
+[21](https://sigmaearth.com/fr/les-7-principales-technologies-de-gestion-des-d%C3%A9chets-qui-r%C3%A9volutionnent-l'industrie-du-recyclage/)
+[22](https://www.nextwaste.fr/gestion-intelligente-des-dechets-nextwaste/)
+## Interprétation des données sur les capacités renouvelables en Allemagne
+
+Les données montrent une croissance exponentielle des capacités installées en solaire et éolien onshore en Allemagne de 2010 à 2029, passant de 1 GW à 90 GW pour le solaire (x90) et de 25 GW à 44 GW pour l'éolien (x1.76), reflétant la Energiewende et le boom mondial des renouvelables en 2025. Le solaire accélère fortement après 2015 (de 4.5 GW à 58 GW en 2025), dépassant l'éolien en croissance relative grâce à la baisse des coûts des panneaux (-80% depuis 2010) et aux subventions, tandis que l'éolien progresse linéairement (+1 GW/an).[11][12][13][14][15]
+
+## Analyse du graphique
+
+Le graphique linéaire met en évidence la trajectoire du solaire (courbe raide, markers circulaires) qui rattrape et dépasse l'éolien (courbe plus plate, markers carrés) vers 2023, illustrant la dominance croissante du PV en Europe avec 42 GW fin 2023 et projections à 58 GW en 2025, alignées sur les tendances AIE (capacité record +15%/an). La grille et rotation des axes facilitent la lecture temporelle, confirmant une accélération post-2020 due à l'hybridation et au stockage.[12][16][17]
+
+## Interprétation de la prédiction linéaire
+
+La régression linéaire sur les années solaires prédit ~100k MW en 2030-2034, mais sous-estime la croissance réelle (modèle R² faible sur données exponentielles), car elle ignore l'accélération observée (CAGR solaire ~35% vs linéaire ~10%). Pour une meilleure précision, utiliser des modèles exponentiels ou ML (LSTM) intégrant météo et politiques, comme dans les prévisions IRENA pour l'Allemagne.[18][19]
+
+## Implications pour le thème Environnement & Énergie
+
+Ces tendances valident l'étape 2 des implémentations précédentes : modéliser la production renouvelable via ARIMA ou deep learning sur données réelles pour optimiser le mix énergétique, réduire CO2 (-40% en Allemagne via renouvelables), et intégrer à des dashboards IoT pour prévisions qualité air/déchets.[13][20][21]
+
+[1](https://seaborn.pydata.org/installing.html)
+[2](https://stackoverflow.com/questions/68015767/not-able-to-install-seaborn-libraries-in-python-spyder)
+[3](https://matplotlib.org/stable/install/index.html)
+[4](https://www.youtube.com/watch?v=MUUyjPLMAI8)
+[5](https://www.jedha.co/formation-python/librairie-seaborn)
+[6](https://pypi.org/project/seaborn/)
+[7](https://www.youtube.com/watch?v=Tf3ZdONhJ3w)
+[8](https://pandas.pydata.org/docs/getting_started/install.html)
+[9](https://www.youtube.com/watch?v=2iswYOPEeHk)
+[10](https://python.19633.com/fr/python-tag-1/Seaborn-1/1001011087.html)
+[11](https://www.statistiques.developpement-durable.gouv.fr/les-energies-renouvelables)
+[12](https://www.agenceecofin.com/actualites-industries/0810-132178-energies-renouvelables-2025-marque-un-basculement-mondial-selon-l-aie-et-ember)
+[13](https://www.france-renouvelables.fr/etudes-et-publications/observatoire-du-systeme-electrique-renouvelable-2025/)
+[14](https://ekwateur.fr/blog/transition-energetique/electricite-renouvelable-production/)
+[15](https://www.placedesenergies.com/professionnels/actualites/deloitte-le-boom-des-energies-renouvelables-en-2025)
+[16](https://www.irena.org/News/pressreleases/2025/Mar/Record-Breaking-Annual-Growth-in-Renewable-Power-Capacity-FR)
+[17](https://www.evasol.fr/innovations-energies-renouvelables-2025/)
+[18](https://www.ibm.com/fr-fr/think/insights/renewable-energy-trends)
+[19](https://www.data.gouv.fr/fr/reuses/prevision-de-qualite-de-lair-concentration-en-particules-fines-en-temps-reel-par-modeles-dintelligence-artificielle/)
+[20](https://www.ineris.fr/fr/risques/dossiers-thematiques/qualite-air/qualite-air-ambiant/modelisationprevision-qualite-air)
+
+[21](https://sigmaearth.com/fr/les-7-principales-technologies-de-gestion-des-d%C3%A9chets-qui-r%C3%A9volutionnent-l'industrie-du-recyclage/)
+## Statistiques clés des capacités renouvelables Allemagne
+
+- **Croissance solaire (2010-2029)** : De 1 GW à 90 GW (+8900%), CAGR 28.5% ; accélération post-2015 (x12.9 en 10 ans).[1][2]
+- **Croissance éolien onshore** : De 25 GW à 44 GW (+76%), croissance linéaire +950 MW/an.[3]
+- **Rapport 2025** : Solaire 58 GW vs éolien 40 GW (solaire = 59% du total renouvelable).[4]
+- **Taux annuel moyen** : Solaire 25% vs éolien 3% ; solaire dépasse éolien en 2023.[5]
+
+## Graphique 1 : Évolution annuelle des capacités
+
+[1](https://www.statistiques.developpement-durable.gouv.fr/les-energies-renouvelables)
+[2](https://www.agenceecofin.com/actualites-industries/0810-132178-energies-renouvelables-2025-marque-un-basculement-mondial-selon-l-aie-et-ember)
+[3](https://www.france-renouvelables.fr/etudes-et-publications/observatoire-du-systeme-electrique-renouvelable-2025/)
+[4](https://www.placedesenergies.com/professionnels/actualites/deloitte-le-boom-des-energies-renouvelables-en-2025)
+[5](https://www.irena.org/News/pressreleases/2025/Mar/Record-Breaking-Annual-Growth-in-Renewable-Power-Capacity-FR)
